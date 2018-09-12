@@ -1,0 +1,12 @@
+C:\Users\Arlin\source\gitRepos\oresundbilletlibrary-Quka\OresundBilletLibrary\bin\Debug\netcoreapp2.1\OresundBilletLibrary.deps.json
+C:\Users\Arlin\source\gitRepos\oresundbilletlibrary-Quka\OresundBilletLibrary\bin\Debug\netcoreapp2.1\OresundBilletLibrary.dll
+C:\Users\Arlin\source\gitRepos\oresundbilletlibrary-Quka\OresundBilletLibrary\bin\Debug\netcoreapp2.1\OresundBilletLibrary.pdb
+C:\Users\Arlin\source\gitRepos\oresundbilletlibrary-Quka\OresundBilletLibrary\bin\Debug\netcoreapp2.1\BilletLibrary.dll
+C:\Users\Arlin\source\gitRepos\oresundbilletlibrary-Quka\OresundBilletLibrary\bin\Debug\netcoreapp2.1\BilletLibrary.xml
+C:\Users\Arlin\source\gitRepos\oresundbilletlibrary-Quka\OresundBilletLibrary\obj\Debug\netcoreapp2.1\OresundBilletLibrary.csprojAssemblyReference.cache
+C:\Users\Arlin\source\gitRepos\oresundbilletlibrary-Quka\OresundBilletLibrary\obj\Debug\netcoreapp2.1\OresundBilletLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Arlin\source\gitRepos\oresundbilletlibrary-Quka\OresundBilletLibrary\obj\Debug\netcoreapp2.1\OresundBilletLibrary.AssemblyInfoInputs.cache
+C:\Users\Arlin\source\gitRepos\oresundbilletlibrary-Quka\OresundBilletLibrary\obj\Debug\netcoreapp2.1\OresundBilletLibrary.AssemblyInfo.cs
+C:\Users\Arlin\source\gitRepos\oresundbilletlibrary-Quka\OresundBilletLibrary\obj\Debug\netcoreapp2.1\OresundBilletLibrary.csproj.CopyComplete
+C:\Users\Arlin\source\gitRepos\oresundbilletlibrary-Quka\OresundBilletLibrary\obj\Debug\netcoreapp2.1\OresundBilletLibrary.dll
+C:\Users\Arlin\source\gitRepos\oresundbilletlibrary-Quka\OresundBilletLibrary\obj\Debug\netcoreapp2.1\OresundBilletLibrary.pdb
